@@ -1,2 +1,2 @@
-This is the redme file for this project
-pair project
+This is the readme file for a team project
+0x16. C - Simple Shell
